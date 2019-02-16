@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Pit Bull,20371.908,46.5317,13.099,med,high,short,male,Aaron
+Samoyed,25082.7272,54.3611,11.018,low,high,med,female,Phillips
+Bloodhound,52773.5063,,7.9583,low,high,short,female,Wright
+Samoyed,23056.689,52.3011,11.2407,med,high,med,female,Anderson
+Pit Bull,27245.2525,,12.4894,med,high,short,male,Best
+Bloodhound,45027.4837,65.2766,8.7054,med,high,short,female,Abbott
+Bloodhound,45540.9894,61.9076,8.3933,med,med,short,female,Perez
+Pit Bull,12275.6901,46.2527,12.5659,med,med,short,male,Ruiz
+Siberian Husky,18941.2864,51.4857,12.3333,low,high,med,female,Carroll
+Siberian Husky,21346.6458,54.1583,12.0807,med,low,short,male,Harris
+Samoyed,14651.4717,53.758,10.443,med,high,med,female,Allen
+Samoyed,20819.7455,,10.9306,med,high,med,female,Watts
+Bloodhound,41094.0086,64.4893,7.4961,low,med,short,female,Williams
+Samoyed,21584.7145,55.4244,11.6317,med,high,med,male,Garza
+Samoyed,17140.1165,54.4716,11.2955,high,high,med,female,Tran
+Pit Bull,25108.4519,45.5928,11.5743,high,high,short,male,Wilson
+Bloodhound,38545.5102,,10.202,med,high,short,male,Benson
+Pit Bull,18057.4119,,10.9961,med,med,short,female,Allen
+Samoyed,27167.7955,54.9485,10.4505,med,high,med,male,Lee
+Siberian Husky,17612.3266,57.6809,11.8463,med,med,med,female,Christensen
+Bloodhound,53190.8383,63.4034,8.1431,low,med,short,male,Harris
+Siberian Husky,16617.7795,53.5386,12.4442,med,med,short,male,Johnson
+Siberian Husky,19365.0826,,12.2326,med,med,med,male,Thompson
+Samoyed,26140.7675,53.2805,11.6455,low,high,med,male,Maddox
+Pit Bull,20129.9644,45.8632,12.0937,low,med,short,male,Jones
+Bloodhound,45724.988,,9.8678,med,high,med,female,Boyd
+Samoyed,22053.1289,54.2467,9.6544,med,high,med,male,Powell
+Samoyed,25670.1433,51.4417,10.8548,med,high,med,male,Neal
+Bloodhound,35543.9833,63.4639,8.77,med,high,short,female,Weber
+Pit Bull,24862.5532,45.9747,11.3015,med,high,short,male,Thompson
+Siberian Husky,22318.7205,54.8847,11.4575,high,med,med,male,Crawford
+Siberian Husky,19867.8257,57.9163,11.9872,med,med,med,male,Wood
+Samoyed,18517.2962,,9.7839,med,high,med,female,Pacheco
+Siberian Husky,18110.4562,54.7103,12.1639,med,med,long,male,Moore
+Siberian Husky,16670.8386,52.2802,11.4313,med,med,med,female,Lynch
+Samoyed,25389.8355,53.483,11.2896,med,high,med,female,Patrick
+Pit Bull,31169.487,,11.6155,low,high,short,male,Foster
+Siberian Husky,19392.4299,53.7262,12.2658,high,med,med,female,Underwood
+Siberian Husky,20631.971,49.0358,12.7136,med,high,med,female,Lambert
+Samoyed,26015.0368,54.629,10.5995,low,high,long,male,Goodman
+Siberian Husky,19914.2013,55.3612,11.4344,med,med,med,male,Owens
+Siberian Husky,19179.3598,54.0922,11.6071,med,low,med,female,Jefferson
+Samoyed,23609.9451,55.3648,11.1945,med,high,med,male,Parker
+Siberian Husky,18858.3593,54.414,11.9491,low,low,med,male,Cooper
+Bloodhound,45990.3995,,8.6786,med,high,short,male,Tate
+Samoyed,22944.0283,54.0292,10.7442,med,high,med,female,Estes
+Samoyed,25873.5019,,10.9013,med,high,med,male,Lynn
+Pit Bull,26984.0901,,11.705,low,high,short,male,Mcmahon
+Bloodhound,43955.7391,64.6393,6.5208,med,high,med,male,Ellis
+Siberian Husky,15300.6852,57.6293,11.7074,med,med,med,male,Gillespie
+Pit Bull,25678.5343,45.0674,11.1557,med,med,short,male,Allen
+Bloodhound,43055.1312,62.9436,8.426,low,high,short,male,Rogers
+Bloodhound,41799.1385,61.9332,7.6272,med,high,med,female,Mullen
+Samoyed,19905.6631,53.2701,10.4228,med,high,med,male,Gonzalez
+Samoyed,27788.621,,10.6597,med,high,med,male,Collins
+Pit Bull,28188.5403,45.799,11.0112,med,high,med,male,Stone
+Pit Bull,22159.8872,45.8381,11.4855,med,high,short,female,Peterson
+Bloodhound,48700.7384,,7.1385,med,med,short,female,Ryan
+Bloodhound,43717.9145,63.8347,7.9067,med,high,short,male,Richardson
+Samoyed,32487.2331,52.6149,11.4573,low,high,med,male,Mcmillan
+Pit Bull,32068.9477,46.4229,11.7021,med,high,short,male,Mitchell
+Bloodhound,42568.5924,63.3143,7.6022,med,med,short,male,Berry
+Samoyed,22697.9689,51.059,11.5119,med,high,med,male,Thompson
+Siberian Husky,18286.4109,54.3818,12.4449,med,med,med,male,Robertson
+Bloodhound,48057.651,63.2229,7.8374,med,high,short,male,Newman
+Samoyed,22337.3801,53.0729,10.9702,med,high,med,female,Galvan
+Bloodhound,40102.9093,62.9576,7.6424,med,high,short,female,Ramirez
+Samoyed,19608.0085,56.5756,10.5648,med,med,long,male,Vargas
+Samoyed,31364.7174,,11.1952,med,high,long,male,Miller
+Bloodhound,33066.1597,62.7317,7.5363,med,high,short,male,Harris
+Siberian Husky,19811.0724,56.9886,12.3364,med,med,med,male,Stout
+Samoyed,26623.2042,51.1713,11.6463,med,med,long,female,Ferguson
+Bloodhound,44925.2101,64.9734,7.9939,med,high,short,male,Martin
+Samoyed,20055.1089,53.8403,10.7011,med,high,long,male,Duran
+Samoyed,19862.2498,52.5293,10.636,low,high,med,female,Mooney
+Bloodhound,41605.6885,61.8107,8.0047,med,high,short,male,Gay
+Siberian Husky,18580.2406,56.672,11.3772,med,high,med,female,Walker
+Siberian Husky,19498.3969,,12.288,med,low,med,female,Valentine
+Bloodhound,43211.8152,62.7846,8.565,med,high,short,female,Jones
+Bloodhound,47330.1343,61.9867,8.8598,high,high,short,female,Lowery
+Siberian Husky,17660.9811,55.8834,11.483,med,med,med,female,Jones
+Samoyed,29907.6005,50.9438,10.9165,low,high,med,female,Johnson
+Siberian Husky,17727.4966,,12.0385,med,med,long,male,Mendoza
+Siberian Husky,19812.3097,,12.247,med,med,med,female,Olson
+Bloodhound,37548.3018,62.9593,7.0454,high,high,short,female,Hamilton
+Pit Bull,8348.89,,11.7126,med,high,short,male,Pitts
+Samoyed,23879.0692,51.6599,10.6828,med,high,short,female,Smith
+Samoyed,25290.7536,,10.0823,med,high,short,male,Garcia
+Samoyed,18727.479,51.4054,11.2947,med,high,med,female,Davis
+Samoyed,20201.5394,52.6655,10.9647,low,high,short,female,Douglas
+Pit Bull,18239.3998,,12.1574,med,med,short,female,Kemp
+Samoyed,22461.8205,53.4103,11.7437,high,high,med,male,Austin
+Siberian Husky,22098.8764,54.906,11.5413,low,med,med,female,Stewart
+Pit Bull,30880.1188,46.7414,11.9693,med,high,short,female,Wilkinson
+Siberian Husky,20169.0987,53.3357,11.6205,med,med,med,male,Stanley
+Samoyed,15798.1028,,10.5376,med,high,short,male,Richardson
+Bloodhound,46957.7053,62.933,8.9812,med,high,short,female,Smith
+Samoyed,19276.0751,,12.2023,med,high,short,male,Ramirez
+Bloodhound,45858.4669,63.3911,11.4533,med,high,short,female,Herrera
+Siberian Husky,18252.0985,,12.3505,med,high,med,male,Lee
+Samoyed,18063.3244,55.6891,10.9372,med,high,med,male,Baker
+Siberian Husky,20187.295,53.4837,11.4359,med,med,med,female,Laura
+Siberian Husky,17622.4924,54.1044,12.2256,med,high,med,male,Lamb
+Samoyed,23655.5513,53.3674,11.3543,med,high,long,male,Donaldson
+Pit Bull,11962.5858,46.4987,12.1686,low,high,med,female,Carr
+Bloodhound,47219.7647,67.2843,8.3384,high,high,short,female,Ho
+Samoyed,22260.3661,54.6384,12.0265,med,high,med,male,Armstrong
+Siberian Husky,18161.3777,,11.0043,med,med,med,female,Wallace
+Pit Bull,29273.5452,46.2495,12.278,med,high,short,male,Hopkins
+Bloodhound,40888.6539,64.0897,10.2599,med,high,short,male,Rodriguez
+Siberian Husky,22218.0327,55.8776,12.2841,med,med,med,female,Black
+Bloodhound,47346.8912,,11.1155,med,high,short,female,Mann
+Siberian Husky,18756.9925,56.1729,12.1396,med,high,med,female,Mullen
+Siberian Husky,19168.8544,56.2422,11.9122,med,med,med,female,Williams
+Samoyed,18509.1696,53.5012,10.2033,high,high,med,male,Werner
+Pit Bull,18010.2434,,11.5042,med,high,short,male,Carey
+Bloodhound,54352.4226,63.239,6.8071,med,high,short,female,Castillo
+Samoyed,24110.7105,50.2999,10.7817,med,high,med,female,Delgado
+Siberian Husky,17850.0659,52.3987,11.8568,low,med,med,male,French
+Samoyed,27400.1794,51.5134,9.9175,med,high,med,female,Pineda
+Bloodhound,36040.0346,66.7948,8.0057,low,high,med,female,Martin
+Pit Bull,16312.3409,46.7302,12.8028,med,high,short,female,Taylor
+Bloodhound,39027.2299,60.1313,7.1357,med,high,short,male,Stein
+Bloodhound,38025.1867,62.8286,8.9169,med,high,med,male,Parker
+Bloodhound,44309.9492,,9.0252,med,high,short,female,Jones
+Pit Bull,18277.0949,46.5077,12.2171,med,high,short,male,Hunt
+Pit Bull,13711.6387,44.6129,12.6477,med,high,med,female,Carlson
+Samoyed,14817.0033,55.4113,10.6247,med,high,long,female,Dickson
+Siberian Husky,21644.6414,52.9126,11.2786,med,med,med,male,Cox
+Siberian Husky,20984.1288,57.7298,11.9411,med,med,med,female,Rowe
+Pit Bull,25436.0436,46.7473,12.9946,high,high,short,male,Kennedy
+Bloodhound,35297.4852,62.4308,9.3122,low,med,short,female,Garcia
+Bloodhound,43640.3119,63.913,10.1037,low,high,short,female,Hicks
+Samoyed,27222.8048,54.9516,11.0087,med,high,med,male,Briggs
+Siberian Husky,15925.6426,55.9325,12.1161,med,med,med,male,Soto
+Siberian Husky,20778.4282,50.0439,12.2411,high,med,med,female,Chase
+Bloodhound,41045.0199,64.3322,9.7676,med,high,short,male,Miller
+Bloodhound,36598.6672,65.0907,7.1108,low,high,short,male,Glover
+Bloodhound,47554.9881,62.9724,7.6365,med,high,short,male,Wheeler
+Siberian Husky,21295.8541,54.5366,12.0652,med,low,med,male,Robertson
+Samoyed,18779.7406,53.7335,10.2316,low,high,med,male,Anderson
+Bloodhound,41580.2518,61.4389,8.7817,med,high,short,male,Jonathon
+Samoyed,20209.5102,52.0547,11.5833,med,high,med,female,Stevenson
+Samoyed,21467.4802,52.7295,11.1558,med,high,med,male,Robbins
+Samoyed,24586.4488,53.0716,11.232,high,high,long,female,Peters
+Siberian Husky,19667.8947,53.9372,11.4995,med,med,med,female,Carter
+Bloodhound,51417.9589,62.8023,7.5344,med,high,short,male,Fletcher
+Bloodhound,39288.0496,60.1574,5.9393,low,high,short,female,Sandoval
+Bloodhound,54661.3144,,10.4925,med,high,short,female,Sanders
+Siberian Husky,21011.6855,57.074,12.6654,med,med,med,female,Graves
+Pit Bull,23465.2965,46.2632,12.1673,med,high,short,male,Hill
+Bloodhound,45314.7227,64.03,9.436,med,high,med,male,Burns
+Bloodhound,42415.2987,64.1786,8.5754,med,high,short,male,Chapman
+Pit Bull,24349.6449,46.7141,12.4866,high,high,med,female,Smith
+Bloodhound,38198.1316,66.3615,9.9489,low,high,short,female,Jensen
+Siberian Husky,17934.7648,56.2979,12.1646,low,med,med,female,Ho
+Siberian Husky,18826.3156,53.3772,12.557,med,med,med,female,Jones
+Bloodhound,46503.7245,,9.4497,low,high,med,female,Hart
+Pit Bull,29540.0052,46.0063,13.1396,med,high,med,male,Higgins
+Samoyed,17610.5279,,11.1101,med,high,med,female,Guerrero
+Pit Bull,30190.0327,46.1114,11.7745,med,high,short,female,Holmes
+Bloodhound,37434.2989,65.2334,6.9154,med,high,short,female,Henderson
+Bloodhound,40840.0633,65.642,7.9103,med,high,short,female,Santiago
+Samoyed,22767.7614,,11.4137,low,high,med,female,Pham
+Bloodhound,47471.1585,63.736,10.8345,high,high,short,male,Santos
+Samoyed,17717.2888,54.27,10.5778,med,med,med,female,Garcia
+Pit Bull,39627.5685,45.9994,12.2889,med,high,short,female,Smith
+Bloodhound,48395.9968,64.2229,8.6093,low,high,short,female,Williams
+Siberian Husky,21755.0242,55.7304,10.8363,med,med,med,male,Martin
+Siberian Husky,18426.4131,55.6903,13.1776,low,med,med,female,Smith
+Pit Bull,22232.1411,45.8863,12.2702,med,high,short,female,Edwards
+Samoyed,20169.8327,54.9085,10.4711,med,high,med,female,King
+Pit Bull,24384.0207,45.593,12.2971,med,high,short,male,Knox
+Bloodhound,44557.5779,62.8158,9.6113,med,high,short,female,Luna
+Bloodhound,42424.2619,65.0167,7.687,med,high,short,male,Hays
+Siberian Husky,21222.8113,52.3636,11.7559,high,med,med,male,Potter
+Siberian Husky,18766.086,53.3746,12.1405,med,med,long,female,Harper
+Bloodhound,42041.771,62.0012,7.9604,low,high,short,female,Carson
+Samoyed,27476.8692,53.0443,12.4394,med,high,med,male,Lewis
+Siberian Husky,17835.7532,55.4549,12.1121,low,low,long,male,Thompson
+Siberian Husky,17199.7612,56.0568,13.0924,high,med,long,male,Pierce
+Samoyed,20493.8597,53.7479,10.9531,low,high,med,female,Thornton
+Siberian Husky,19091.5818,55.9414,11.7845,med,med,med,female,Mcmahon
+Pit Bull,19849.114,45.6141,11.4055,med,high,short,male,Mitchell
+Bloodhound,49881.9801,,8.8563,high,med,short,female,Tucker
+Siberian Husky,19773.7959,55.8642,12.2868,med,med,med,female,Fox
+Siberian Husky,19621.7301,55.8276,12.644,med,high,med,male,Edwards
+Samoyed,23832.1723,48.9042,11.5209,high,high,med,female,Patterson
+Pit Bull,27526.8275,45.706,12.7449,med,high,short,female,Robertson
+Siberian Husky,18495.0377,,11.845,med,high,med,female,Roberts
+Bloodhound,48330.2556,,7.5104,med,high,short,male,Knapp
+Samoyed,20384.7284,53.8346,10.8856,med,high,med,female,Anderson
+Pit Bull,26218.1996,46.4325,13.1538,med,high,short,female,Martinez
+Siberian Husky,19245.524,55.7457,13.2711,med,med,med,female,Santiago
+Siberian Husky,16153.1097,,11.5971,med,low,short,male,Ochoa
+Bloodhound,44198.44,63.1553,8.2663,med,high,short,female,Harrell
+Samoyed,24221.1592,51.4394,10.9757,med,high,short,female,Mccarty
+Samoyed,23419.0835,51.7606,11.3491,med,high,med,female,Johnson
+Pit Bull,30062.9805,45.796,11.9979,med,high,short,male,Ortiz
+Siberian Husky,20793.8598,55.6153,12.4509,med,high,med,male,Edwards
+Siberian Husky,17462.7387,55.5023,12.0159,med,high,med,female,Gentry
+Bloodhound,31804.1361,64.6588,7.5493,med,high,short,female,Wang
+Bloodhound,47190.3786,63.8903,8.6403,med,high,short,male,Hunter
+Bloodhound,46368.8013,64.5827,8.033,med,high,short,male,Garcia
+Pit Bull,28139.1845,46.0942,11.8576,med,high,short,male,Patterson
+Samoyed,21320.0725,55.4961,11.0394,med,high,long,female,Gonzalez
+Bloodhound,37766.4247,63.3381,8.8647,low,high,med,female,Hancock
+Samoyed,17187.0101,56.2562,11.0964,med,high,med,female,Ellis
+Siberian Husky,20060.5438,54.6592,9.789,med,med,med,male,Hughes
+Bloodhound,41713.7361,63.9945,9.2867,med,med,short,male,Myers
+Siberian Husky,19489.7307,56.8954,13.0878,med,med,long,male,Meza
+Samoyed,21769.0437,53.8177,11.8029,low,high,short,male,Edwards
+Siberian Husky,18027.5967,54.7168,12.1951,med,med,med,female,Soto
+Samoyed,14289.8897,52.6527,11.4005,med,high,med,male,Tate
+Bloodhound,37737.9369,65.6706,8.7655,med,high,med,male,Manning
+Siberian Husky,21462.4412,53.7745,11.55,med,med,med,male,Morris
+Samoyed,25145.448,51.8896,11.7233,high,high,med,female,Martin
+Pit Bull,18060.8234,,12.8564,high,high,short,male,Fletcher
+Samoyed,22561.149,,10.7843,med,high,long,female,Carter
+Bloodhound,41161.3176,,7.9755,low,high,short,female,Cole
+Samoyed,22387.6866,52.1308,10.6375,low,high,med,female,Bates
+Siberian Husky,23814.3949,58.3755,12.7967,med,med,med,female,Garcia
+Pit Bull,18251.0418,46.5345,12.9168,med,high,short,male,Wilson
+Bloodhound,37340.0333,61.2586,8.0619,low,high,short,female,Cruz
+Pit Bull,30874.9293,46.7812,11.6166,med,high,med,female,Castro
+Samoyed,18802.0043,54.6452,11.4735,high,high,med,female,Nolan
+Bloodhound,45142.5561,62.1303,7.3774,high,high,short,male,Hoffman
+Siberian Husky,16182.946,53.7109,12.4864,med,med,med,male,Lewis
+Samoyed,24141.3513,,11.3271,med,high,med,female,Beasley
+Siberian Husky,19399.4409,53.8346,12.1855,med,med,med,female,Miller
+Samoyed,18797.8315,,11.5439,med,high,long,female,Robinson
+Pit Bull,28470.4647,45.526,12.1233,med,high,short,female,Hamilton
+Siberian Husky,16589.0288,54.3366,12.1597,med,med,med,male,Garcia
+Siberian Husky,18320.1918,55.7058,12.1773,med,high,med,male,Boone
+Pit Bull,31982.728,,12.3712,med,high,short,female,Rivera
+Bloodhound,39847.3013,64.2926,8.1553,med,high,short,female,Williams
+Siberian Husky,16610.9124,54.8458,11.6096,med,med,med,male,Graham
+Pit Bull,37997.6499,46.8684,11.7954,med,high,short,female,Jackson
+Bloodhound,38657.2375,63.257,8.8672,med,high,short,male,Jones
+Bloodhound,46357.31,62.3887,8.8096,med,med,short,male,Jones
+Siberian Husky,20069.3267,51.6095,11.4365,high,med,long,female,Velazquez
+Siberian Husky,19385.4243,54.5809,12.8267,high,med,med,female,Walker
+Pit Bull,37435.7403,,13.2453,med,high,short,female,Weber
+Siberian Husky,18839.6428,54.9545,11.7644,high,med,med,female,Warren
+Pit Bull,14592.6224,47.1429,11.9604,med,high,short,male,Juarez
+Pit Bull,24093.8021,46.6915,12.21,high,high,short,female,Silva
+Samoyed,22702.3264,54.7987,11.3274,med,high,long,female,Scott
+Samoyed,25814.5513,53.0923,11.3499,med,high,long,male,Parker
+Pit Bull,31309.6066,46.1549,12.3746,med,high,short,female,Salas
+Samoyed,17599.7755,53.0646,10.8568,med,med,long,male,Thomas
+Samoyed,26468.5484,54.1273,10.7966,high,high,med,male,Williams
+Bloodhound,39222.2663,63.2123,7.7083,low,high,short,male,Christopher
+Pit Bull,21873.0845,45.7055,12.2331,med,high,short,male,Johnson
+Bloodhound,36761.5827,,10.3038,high,high,short,male,Garcia
+Pit Bull,18758.0851,45.3121,11.3769,low,high,short,female,Miller
+Bloodhound,45326.7951,64.0885,9.2245,med,high,short,male,Collins
+Bloodhound,43334.0817,64.8534,7.5992,med,high,short,male,Mills
+Bloodhound,44750.7493,62.68,9.186,med,high,short,male,Sullivan
+Bloodhound,41509.6061,,8.4683,med,high,short,female,Marks
+Pit Bull,20920.264,46.2987,12.3517,med,high,short,male,Raymond
+Pit Bull,29958.9351,45.4147,11.2769,med,high,short,female,Robinson
+Samoyed,18262.908,53.8083,10.4023,med,high,med,male,Barron
+Samoyed,17405.7054,53.246,11.7242,med,high,med,male,Evans
+Siberian Husky,19742.1337,56.1122,11.5877,med,med,med,female,Dixon
+Siberian Husky,18366.8396,57.5804,11.9914,med,med,med,female,Short
+Bloodhound,36358.788,64.2909,9.3103,low,high,short,male,Stevens
+Siberian Husky,17232.2725,55.3299,11.6576,med,high,med,male,Stone
+Samoyed,23182.0572,54.0414,10.8231,med,high,med,female,Woods
+Pit Bull,25992.1171,46.298,11.238,med,high,med,female,Harper
+Samoyed,29356.5651,53.0686,12.1902,med,high,med,female,Roberts
+Bloodhound,41779.5849,62.3773,8.0898,high,high,short,male,Brooks
+Siberian Husky,20055.0083,55.1409,11.8999,med,med,med,female,Martinez
+Samoyed,21472.0898,55.4779,10.516,med,high,med,female,Lawrence
+Siberian Husky,18589.9196,56.6472,12.7404,med,med,short,female,Miller
+Samoyed,16860.6082,,11.5357,med,high,med,male,Love
+Bloodhound,48756.0221,67.6294,9.8675,med,high,short,male,Holland
+Bloodhound,39501.6913,,10.2582,med,high,short,female,Silva
+Bloodhound,40305.4481,63.0276,9.5111,med,high,short,male,Dennis
+Bloodhound,34794.7231,64.6436,8.7741,med,high,short,male,Saunders
+Siberian Husky,16963.5212,54.0672,12.1257,med,low,med,male,Anderson
+Pit Bull,21843.5836,45.7351,12.8246,med,med,short,male,Johnson
+Samoyed,22661.9097,53.4484,10.6589,med,high,med,male,Coleman
+Siberian Husky,16803.158,,12.0234,low,med,long,male,Thomas
+Siberian Husky,19492.0493,,11.997,low,low,med,male,Copeland
+Pit Bull,19132.3514,46.6162,11.2484,med,high,short,female,Hughes
+Bloodhound,45758.198,60.5839,8.5708,med,high,short,male,Jones
+Siberian Husky,18355.2225,55.0687,11.9477,high,med,long,male,Hall
+Bloodhound,45097.4363,65.0141,9.6824,med,high,short,female,Malone
+Siberian Husky,19833.4604,55.3038,11.4513,med,med,med,male,Gross
+Samoyed,22523.9195,51.7918,10.2334,med,high,med,female,Hernandez
+Bloodhound,44506.7329,64.8531,9.8621,med,high,short,male,Robinson
+Samoyed,24104.4668,,10.1933,med,med,med,male,Hall
+Samoyed,21744.9765,,10.1976,high,high,short,female,Smith
+Samoyed,30922.2464,52.4443,12.0407,med,high,med,female,Lee
+Bloodhound,46874.9077,65.3834,9.2215,med,high,short,female,White
+Samoyed,23774.0834,54.424,11.1362,med,high,med,male,Baker
+Samoyed,26587.3786,,10.9295,med,high,short,female,Duncan
+Pit Bull,21765.0411,46.2107,12.3304,high,high,short,male,Ramirez
+Siberian Husky,15595.2304,54.7153,12.9588,med,med,med,male,Johnston
+Siberian Husky,18908.3382,53.4309,12.6545,low,high,med,male,Miller
+Pit Bull,19947.0392,45.4019,10.9232,high,high,short,female,Lopez
+Siberian Husky,20829.199,53.6627,11.1753,med,med,short,male,Hickman
+Siberian Husky,23079.7063,54.9748,11.4252,med,med,med,female,Johnson
+Bloodhound,46966.3367,65.0144,8.2399,med,high,short,female,Stevens
+Siberian Husky,15920.3674,56.6079,11.4072,med,med,med,female,Graham
+Samoyed,22776.6638,,10.4389,med,high,med,male,Gomez
+Siberian Husky,20041.8636,57.0071,10.7803,low,med,med,female,Mcpherson
+Siberian Husky,16001.9154,53.6528,11.7756,med,med,med,male,Owens
+Bloodhound,44174.5554,63.8524,10.1203,med,high,short,male,Grant
+Siberian Husky,20529.4333,55.6279,11.3845,low,med,med,male,Kim
+Bloodhound,41834.6741,62.4755,8.8062,high,high,short,female,Daniel
+Bloodhound,44108.273,63.978,8.4387,high,high,med,male,Golden
+Pit Bull,20691.3079,46.2661,11.8135,med,high,short,female,Phelps
+Pit Bull,24942.0243,46.8097,11.682,med,high,med,male,Bailey
+Siberian Husky,18741.8318,54.0483,12.552,low,low,short,female,George
+Pit Bull,21709.5593,47.2088,11.1936,med,high,short,female,Hardin
+Samoyed,23249.5973,54.3706,11.4152,med,high,med,male,Hoover
+Siberian Husky,18583.7361,51.741,12.0101,med,med,short,male,Sullivan
+Pit Bull,20812.3499,46.9444,13.0332,med,med,short,male,Walker
+Siberian Husky,22145.7221,56.4898,10.7984,med,low,med,male,Williams
+Samoyed,16534.6986,,10.743,med,high,med,female,Watson
+Pit Bull,34408.8601,44.9528,12.1078,med,high,short,female,Evans
+Pit Bull,16589.0601,46.354,12.6431,med,high,short,female,Ferguson
+Siberian Husky,18142.9249,53.5972,12.449,low,med,med,male,Moore
+Samoyed,20973.9063,53.6139,9.9176,low,high,med,female,Jones
+Siberian Husky,22109.2856,55.7468,12.6484,high,med,med,female,Keller
+Pit Bull,19893.9603,45.8273,12.0651,high,high,short,male,Bruce
+Bloodhound,45064.9105,63.2128,8.8428,med,high,short,male,Allen
+Samoyed,21998.5411,,10.4816,high,high,med,male,Dorsey
+Samoyed,21764.8355,52.7342,11.8549,med,high,med,male,Weber
+Samoyed,25243.5486,55.6533,10.6946,med,high,med,female,Bradley
+Pit Bull,24218.8289,46.4739,11.6078,low,high,short,male,Ho
+Siberian Husky,20359.3895,55.9801,12.0657,med,low,med,female,Andrade
+Pit Bull,35018.4652,,12.4819,med,med,short,female,Morris
+Pit Bull,25701.0807,46.7204,12.2577,low,high,med,male,Hardy
+Bloodhound,39598.4871,65.3199,8.3368,med,high,med,female,Rodriguez
+Pit Bull,22037.7158,47.1807,12.8452,med,high,short,male,Griffin
+Samoyed,23507.2059,54.4688,10.7432,med,high,med,female,Smith
+Samoyed,16472.2331,,11.1464,med,high,med,male,Kirby
+Samoyed,23038.9196,52.7545,11.5236,med,high,med,female,Davis
+Siberian Husky,17508.1727,51.446,11.9699,low,med,med,male,Lamb
+Samoyed,25558.377,,10.8344,med,high,med,female,Kemp
+Bloodhound,43855.203,62.9851,8.8364,med,high,short,female,Reed
+Samoyed,27584.6804,,10.9767,med,high,med,female,Sutton
+Samoyed,20576.8396,51.1638,11.2532,med,high,med,female,Clements
+Bloodhound,48283.019,64.6836,7.6434,med,high,short,female,Bautista
+Samoyed,26271.406,,11.1195,med,med,med,female,Bell
+Pit Bull,29597.2915,45.8808,11.4741,med,high,short,male,Gross
+Bloodhound,47218.4127,60.7828,8.6918,med,high,short,female,Watts
+Samoyed,20201.9618,53.0548,11.0305,med,med,short,male,Robertson
+Samoyed,17820.6187,56.7329,10.9397,med,high,med,male,Hudson
+Samoyed,22628.4734,54.4981,11.5045,med,high,med,female,Strong
+Bloodhound,42745.325,64.1867,9.1201,med,high,short,female,Christopher
+Samoyed,23285.2631,51.5813,10.7037,med,high,med,male,Wall
+Pit Bull,22991.4219,45.8832,12.1438,high,high,short,male,Hernandez
+Samoyed,24902.0477,52.439,11.5632,med,high,med,male,Stevenson
+Bloodhound,39787.3461,,9.2846,high,med,med,female,Smith
+Samoyed,21998.7816,,10.1281,med,med,med,male,Wallace
+Bloodhound,41646.1344,64.1395,8.3727,med,high,short,female,French
+Pit Bull,21651.5699,45.9727,12.0818,med,high,short,male,Evans
+Samoyed,18067.0444,52.7848,11.1664,med,high,med,male,Harrison
+Samoyed,18121.4801,55.6756,10.5867,med,high,short,male,Villarreal
+Samoyed,20747.6666,53.6454,11.2214,med,high,med,male,Gibson
+Bloodhound,42913.5495,65.4667,9.3039,high,high,short,female,Morris
+Siberian Husky,18420.6818,54.7593,11.2902,med,med,med,female,Barnett
+Samoyed,23203.6978,54.4466,10.2976,high,high,med,female,Jones
+Samoyed,24897.2738,55.4894,11.0913,low,high,med,male,Johnson
+Bloodhound,41772.8926,62.7624,8.8223,med,high,short,female,Hernandez
+Samoyed,19291.34,,10.7458,med,high,short,male,Williams
+Bloodhound,39574.9421,,7.2238,med,high,short,female,Brown
+Bloodhound,42573.7409,66.6843,7.1264,med,high,short,female,Gonzales
+Bloodhound,44177.9798,65.3113,7.5753,med,high,short,female,Lee
+Pit Bull,24966.9302,46.1749,11.6322,low,high,short,male,Patel
+Samoyed,23688.2627,52.7244,12.0919,med,high,med,female,Morris
+Samoyed,23484.3431,,11.4865,med,high,med,female,Deleon
+Pit Bull,30631.6113,,11.389,med,med,short,male,Miles
+Pit Bull,23812.9415,44.7155,13.2245,med,high,short,female,Rodriguez
+Bloodhound,43660.6969,63.924,9.12,low,high,short,female,Jason
+Samoyed,21845.564,53.7964,11.5018,med,high,short,male,Williams
+Samoyed,19650.4225,54.1477,11.0159,low,high,long,male,Ortega
+Bloodhound,41805.9521,61.7021,7.9039,med,high,short,female,Wilcox
+Siberian Husky,21159.1111,52.2834,12.6613,med,med,med,female,Weaver
+Pit Bull,28494.088,46.3068,11.6149,med,high,short,female,Randolph
+Siberian Husky,19036.8363,55.7238,12.2378,med,med,long,female,Lucas
+Samoyed,20804.585,,10.7268,med,med,med,female,Robinson
+Siberian Husky,17449.1449,53.2477,11.5687,med,med,med,female,Gonzalez
+Samoyed,23470.2482,52.3282,10.352,med,med,med,male,Camacho
+Pit Bull,22349.4397,45.9526,10.6461,med,high,short,female,Williams
+Siberian Husky,17574.5755,53.4461,12.3669,high,med,med,male,Smith
+Siberian Husky,19861.7347,50.9092,11.8804,med,med,med,male,Palmer
+Samoyed,21075.3925,54.5063,11.1807,med,high,med,male,Martin
+Pit Bull,36489.3808,46.5477,11.5789,med,high,short,male,Sean
+Bloodhound,41943.1495,65.1758,9.5142,med,high,short,female,Smith
+Bloodhound,46101.9197,62.7793,6.7975,med,high,short,female,Rice
+Bloodhound,47057.3392,60.6066,9.1151,low,high,short,male,Bradley
+Siberian Husky,20872.8448,56.8233,11.8745,med,med,med,male,Powell
+Samoyed,22052.1327,55.4439,11.1166,low,high,med,male,Rose
+Samoyed,21230.3882,56.3038,11.4627,med,high,med,male,Nguyen
+Bloodhound,40761.4362,65.1767,9.2838,low,high,short,female,Barrett
+Pit Bull,24088.6357,,11.7601,med,high,short,male,Francis
+Siberian Husky,17448.5755,54.6727,11.6868,high,med,med,male,Holland
+Bloodhound,47157.8562,,7.7891,med,high,short,female,Clark
+Bloodhound,43684.9723,62.8308,8.4883,med,high,short,female,Henderson
+Bloodhound,37995.7555,63.0356,8.9965,med,high,short,female,Williams
+Bloodhound,43406.8457,63.1467,8.6468,med,high,short,male,Parker
+Bloodhound,33602.5534,63.4901,8.0976,med,high,short,female,Casey
+Samoyed,17732.3613,,11.9894,low,high,long,female,Farley
+Bloodhound,38715.6564,64.4427,7.2956,low,high,med,male,Parsons
+Pit Bull,24901.673,,12.5616,med,med,short,female,Kim
+Bloodhound,40577.4752,62.7802,8.0494,med,high,short,male,Mccoy
+Siberian Husky,18615.7667,,11.696,med,med,short,male,Collins
+Bloodhound,49675.9097,,8.8997,med,high,short,female,Hall
+Pit Bull,29830.7367,,11.1942,med,high,short,female,Hampton
+Samoyed,24864.9865,52.8474,11.4588,high,med,long,female,Graham
+Samoyed,24711.9947,54.1018,11.1814,med,high,med,male,Lawson
+Pit Bull,40117.3716,46.3482,11.9733,med,high,med,male,Bernard
+Samoyed,20080.076,52.7722,11.7519,med,high,short,female,Johnson
+Samoyed,21990.0843,52.8967,10.7481,med,high,med,female,Lyons
+Siberian Husky,18050.0821,,11.7968,med,med,med,male,Fernandez
+Samoyed,27058.9974,55.1647,10.6994,low,high,med,male,Ford
+Siberian Husky,19410.6858,,12.2049,low,med,med,male,Rodriguez
+Samoyed,21497.202,54.1117,10.9279,med,high,med,male,Wilson
+Siberian Husky,19432.1791,51.4505,12.0719,med,low,long,female,Mckinney
+Bloodhound,43671.247,63.8651,8.6088,med,high,short,male,Ruiz
+Samoyed,23968.3341,52.3251,11.121,med,high,med,male,Pratt
+Pit Bull,32507.2106,,12.8904,med,high,short,female,Watkins
+Bloodhound,44547.722,,8.3524,med,high,short,male,Ayers
+Pit Bull,21266.6477,45.8356,12.1944,low,high,short,male,Mitchell
+Pit Bull,30928.6088,46.3731,12.7242,med,high,med,male,Cummings
+Samoyed,20685.9331,,11.8784,med,high,med,male,Hatfield
+Bloodhound,41884.9617,,9.049,med,high,short,male,Hill
+Bloodhound,38920.992,63.6298,9.0574,med,high,short,male,Jones
+Bloodhound,39598.85,61.8534,9.1326,med,high,short,male,Franklin
+Bloodhound,46294.795,,7.7508,med,high,short,male,Morrison
+Samoyed,23794.6759,52.8169,11.7124,med,high,med,male,Dunn
+Samoyed,26623.0664,52.6448,11.7496,low,med,med,female,Wolfe
+Bloodhound,46592.9804,,8.3868,med,high,short,male,Ware
+Samoyed,14285.3623,53.4997,11.3666,med,med,med,female,Thompson
+Siberian Husky,16720.3109,51.7185,12.8278,low,high,med,male,Ford
+Samoyed,25112.8601,,11.9931,med,high,med,female,Santos
+Pit Bull,28368.739,45.767,12.8523,high,med,short,female,Perry
+Pit Bull,26187.1453,47.0604,11.3445,med,med,short,female,Holland
+Siberian Husky,16263.7446,50.0144,11.4259,med,med,med,male,Williams
+Samoyed,16668.7816,52.7571,11.487,med,high,med,female,Watson
+Bloodhound,36945.5885,59.5703,8.5331,low,high,med,male,Cabrera
+Siberian Husky,19631.2568,55.4733,11.928,high,med,long,female,Reed
+Pit Bull,29415.9951,46.1788,12.3883,med,high,short,male,Jackson
+Pit Bull,28106.9389,46.8332,12.203,low,high,short,female,Patel
+Samoyed,23409.6146,,11.4186,med,high,med,female,Green
+Bloodhound,44863.803,65.5652,8.8035,med,high,short,male,Gregory
+Siberian Husky,21700.6531,,11.3829,med,med,med,female,Hardy
+Pit Bull,39486.7496,46.0128,11.6391,med,high,short,male,Hudson
+Samoyed,29227.8124,53.6727,11.3362,med,high,med,female,Farmer
+Siberian Husky,21536.3097,54.6416,11.7306,low,high,med,female,Arnold
+Pit Bull,39479.0179,,11.138,low,high,short,female,Hunt
+Pit Bull,23411.9143,,11.829,low,med,med,female,Burke
+Samoyed,14815.8615,56.0697,11.0182,med,high,med,male,Miller
+Samoyed,21780.0811,52.592,10.1824,med,high,long,female,Aguilar
+Pit Bull,19934.4435,45.3977,12.5608,med,high,med,male,Alexander
+Siberian Husky,19345.0515,53.0103,11.5809,med,med,short,female,Combs
+Pit Bull,16750.3149,45.8091,13.5119,med,high,short,female,Velazquez
+Samoyed,21687.639,53.2296,12.4311,med,high,long,male,Nunez
+Bloodhound,43690.4375,62.7923,8.2693,med,high,short,male,Terry
+Siberian Husky,18642.9412,56.8436,11.3357,med,med,med,female,James
+Samoyed,20134.3005,53.8198,10.6273,med,high,med,male,Hoover
+Pit Bull,18975.8213,46.6455,11.01,med,high,short,female,Walker
+Siberian Husky,18787.3115,52.717,11.7955,med,low,med,female,Meadows
+Samoyed,24142.7518,53.1529,10.2374,low,high,long,male,Adams
+Pit Bull,15335.6269,46.019,11.0971,med,high,short,female,King
+Pit Bull,22831.9065,46.3136,12.1682,med,high,short,female,Pineda
+Pit Bull,29811.1006,47.1858,11.7635,med,high,short,female,Diaz
+Bloodhound,48272.1547,62.525,7.1215,med,med,short,female,Anderson
+Siberian Husky,21744.8104,,12.028,med,low,med,male,Baker
+Siberian Husky,16838.8853,,11.698,low,med,med,female,May
+Siberian Husky,23834.7618,56.3606,12.324,med,med,med,male,Mayer
+Siberian Husky,20968.4158,53.691,11.4976,med,med,med,female,Lewis
+Bloodhound,40327.6799,62.1045,10.3057,med,high,short,male,Jacobs
+Pit Bull,26411.9678,45.9866,12.1268,high,high,short,female,Burnett
+Pit Bull,25275.5862,47.2742,11.5625,med,high,short,female,Long
+Samoyed,26812.786,52.2714,11.5881,med,high,med,female,Aguirre
+Bloodhound,43053.1484,62.4915,8.8786,med,high,short,male,Dunn
+Pit Bull,26789.3376,46.0335,12.9702,med,high,short,male,Phillips
+Pit Bull,35467.0356,46.2532,11.4795,low,high,short,male,Davenport
+Samoyed,20101.9295,52.9257,10.3453,med,high,med,female,Osborn
+Samoyed,25334.3158,,11.1324,med,high,med,male,Johnson
+Samoyed,22510.3309,,10.5053,low,high,med,female,Cochran
+Bloodhound,44775.4682,64.0947,8.2837,med,high,short,female,English
+Samoyed,22400.6585,54.5038,11.2606,med,high,short,male,Taylor
+Samoyed,25532.4295,51.9836,11.1621,med,high,med,male,Mack
+Siberian Husky,21008.588,56.0914,12.4939,med,high,med,male,Matthews
+Siberian Husky,18349.2858,54.807,12.307,med,low,med,female,Smith
+Bloodhound,45698.9028,,8.5497,med,high,med,female,Mason
+Siberian Husky,18264.8253,55.3727,12.1432,med,med,short,female,Ruiz
+Samoyed,20275.8795,50.9679,11.1788,med,high,med,female,Stevens
+Pit Bull,22073.7038,44.8679,11.8957,high,high,short,female,Norris
+Siberian Husky,18549.3214,53.3935,12.193,med,med,short,male,Nunez
+Siberian Husky,17407.9863,55.3018,12.1204,med,med,med,male,Gomez
+Bloodhound,36136.9167,62.7645,7.9077,med,high,short,male,Jimenez
+Samoyed,23747.6651,54.0812,12.3917,high,med,med,male,Cunningham
+Pit Bull,18367.3005,,11.9496,med,high,short,male,Walton
+Siberian Husky,16393.4968,,12.4849,low,med,long,female,Butler
+Bloodhound,49377.3767,61.489,7.2959,med,high,short,female,Salazar
+Pit Bull,33629.7853,,12.3611,med,med,short,female,Haas
+Pit Bull,23753.0951,46.1199,12.7706,med,high,short,female,Weiss
+Samoyed,21335.2073,54.8426,10.2747,med,high,med,female,Bean
+Samoyed,24042.7392,53.3214,11.2946,med,high,med,male,Schultz
+Samoyed,22947.2566,51.7598,11.4365,med,high,short,male,Booth
+Pit Bull,18554.1449,46.0802,12.3538,med,high,short,female,Sellers
+Samoyed,22333.9558,54.4687,10.6767,med,high,med,female,Mccoy
+Siberian Husky,17753.4634,55.4491,11.6747,med,low,med,male,Ryan
+Pit Bull,29143.37,47.2312,13.167,low,high,short,male,Blanchard
+Siberian Husky,23392.5513,,12.812,low,high,long,female,Wright
+Siberian Husky,21208.372,,11.4688,high,med,med,female,Powell
+Bloodhound,46767.4934,62.4296,7.7128,med,med,short,female,Rowe
+Samoyed,29690.3425,,11.294,high,high,long,female,Mclaughlin
+Samoyed,23433.3647,51.9654,11.1068,med,med,med,male,Woods
+Bloodhound,30930.968,64.7051,8.1027,med,high,short,female,Gonzalez
+Bloodhound,36001.8624,64.6764,8.417,med,high,short,male,Meyer
+Pit Bull,30659.6371,45.6225,11.8104,med,high,short,female,Stevens
+Bloodhound,45711.04,62.4141,8.0785,med,high,short,male,Brown
+Samoyed,21313.9446,51.9467,10.3337,med,high,med,female,Villa
+Bloodhound,45881.2717,64.5741,9.4792,med,high,short,female,Franco
+Samoyed,15574.8835,54.4453,9.9663,med,high,long,female,Kemp
+Pit Bull,23981.3396,45.7977,11.9447,med,high,short,male,Martin
+Bloodhound,39024.459,,8.1061,high,high,short,male,Brown
+Siberian Husky,20946.9531,,11.0664,med,med,med,male,Johnson
+Siberian Husky,18519.033,54.4325,12.286,med,med,med,female,Pratt
+Siberian Husky,16974.2206,54.7588,13.0366,med,med,med,male,Freeman
+Samoyed,21905.4244,52.9828,11.5299,med,high,short,female,Taylor
+Siberian Husky,20773.9729,52.5523,11.7038,low,med,med,male,Reynolds
+Siberian Husky,18619.9549,52.3384,12.4201,high,med,long,female,Sanchez
+Samoyed,32491.6164,,10.9458,low,high,med,male,Patel
+Pit Bull,19921.6272,,11.8178,high,high,short,male,Pruitt
+Siberian Husky,16939.7276,,11.5398,high,med,med,male,Levine
+Pit Bull,24853.9316,,12.787,high,high,short,male,Davis
+Siberian Husky,19576.1664,54.6255,12.5506,med,med,med,male,Anderson
+Bloodhound,51284.2611,65.3686,8.5306,low,high,short,female,Phillips
+Siberian Husky,19999.3213,53.1368,12.1427,med,med,med,female,Rogers
+Bloodhound,40456.135,,8.4535,med,high,short,female,Thomas
+Pit Bull,35618.4829,,12.9917,med,high,short,male,Walker
+Samoyed,18925.7348,54.7553,11.6854,med,high,short,male,Williams
+Pit Bull,27223.2393,45.5867,13.3446,med,high,med,male,Conner
+Bloodhound,41040.9454,61.7889,8.366,med,high,short,female,Campbell
+Siberian Husky,17094.8437,55.4061,12.0675,med,med,med,male,Christensen
+Siberian Husky,16654.8945,55.8375,11.7701,med,med,med,male,Lozano
+Bloodhound,47026.1726,65.0103,9.1437,med,high,short,female,Smith
+Siberian Husky,19879.7065,54.4628,10.8549,med,med,long,male,Hinton
+Siberian Husky,19539.7224,50.285,12.8156,high,med,med,female,Jones
+Siberian Husky,17341.2143,53.3717,12.2239,med,med,long,female,Kidd
+Siberian Husky,20863.9262,50.8673,12.5505,high,med,med,male,Cook
+Siberian Husky,18121.0696,54.501,11.8807,med,med,med,female,Brooks
+Siberian Husky,18980.6741,54.6921,11.7831,med,high,med,male,Smith
+Siberian Husky,17162.7767,53.9339,11.9426,med,med,med,male,Wong
+Bloodhound,40962.0225,62.1956,8.733,med,high,short,female,Buckley
+Samoyed,20586.0009,,10.1025,med,high,med,female,Simpson
+Samoyed,17701.347,51.9448,10.885,med,high,med,male,Wilson
+Pit Bull,13056.8156,45.702,11.2002,med,high,short,female,Curry
+Pit Bull,28414.5371,45.6202,12.0821,med,high,short,female,Perry
+Bloodhound,42353.0736,61.237,9.2799,med,high,short,male,Jones
+Samoyed,18600.7123,51.4834,10.4514,low,high,med,female,Maynard
+Samoyed,19171.206,,11.2945,med,high,med,female,Douglas
+Samoyed,16041.5349,55.4272,10.4243,med,high,med,male,Keller
+Pit Bull,38871.9593,45.7084,10.9447,high,high,med,male,Merritt
+Bloodhound,38797.903,62.0544,7.8777,med,high,short,male,Reed
+Siberian Husky,19624.0174,51.0335,11.8673,med,med,med,female,Salazar
+Siberian Husky,18927.6147,58.3884,12.8347,low,med,med,female,Fisher
+Pit Bull,25384.8827,45.4868,13.3094,med,high,short,female,Ramirez
+Pit Bull,28559.0891,46.08,12.2704,med,high,med,female,Robbins
+Bloodhound,39353.7906,63.8231,8.108,med,high,short,male,Briggs
+Samoyed,17128.8504,53.6214,11.4606,med,high,med,male,Miller
+Pit Bull,18872.096,45.3984,11.5929,high,high,short,male,Shannon
+Bloodhound,47753.3941,65.5206,9.2259,med,high,short,female,Barker
+Samoyed,27202.2332,53.0624,11.179,low,high,med,male,Martinez
+Siberian Husky,17520.7128,57.7421,12.2158,high,med,long,female,Santana
+Siberian Husky,19165.907,56.6004,12.4285,med,med,med,female,Morales
+Samoyed,28940.2822,,10.5933,low,high,med,female,Valencia
+Siberian Husky,20396.2958,,12.4338,med,med,med,female,Graham
+Siberian Husky,17653.9007,,11.8716,med,med,med,female,Hill
+Pit Bull,16396.1181,45.6579,11.7241,med,high,short,female,Gardner
+Bloodhound,46676.8634,66.3484,9.4231,med,high,short,female,Munoz
+Siberian Husky,18575.6576,,12.3078,med,med,med,male,Navarro
+Pit Bull,34090.6056,45.8569,12.1324,med,high,short,male,Hamilton
+Pit Bull,17233.2001,46.023,12.1278,med,high,short,female,Reeves
+Samoyed,24393.9889,55.3042,10.2928,med,high,med,female,Terrell
+Bloodhound,38772.468,65.5687,8.6552,med,high,short,female,Barnes
+Bloodhound,32516.0636,64.8877,7.5308,med,high,short,male,Braun
+Samoyed,14485.2538,53.2855,11.8503,med,high,med,female,Green
+Bloodhound,45354.1209,,8.9764,med,high,short,female,Scott
+Bloodhound,36625.5089,64.3073,7.323,med,high,short,male,Smith
+Bloodhound,48776.6677,,7.4762,high,high,short,male,Christensen
+Samoyed,30215.274,51.5325,11.5597,med,high,short,male,Gonzalez
+Siberian Husky,19494.4523,53.2163,13.2028,med,med,med,male,Moreno
+Bloodhound,44023.413,65.8249,8.8935,med,high,short,male,Anthony
+Siberian Husky,14334.6478,52.8677,11.4273,med,med,med,female,Blair
+Siberian Husky,23973.6347,55.0539,11.1114,med,low,med,male,Gonzalez
+Bloodhound,44383.2471,61.292,9.8436,med,high,short,male,Thomas
+Pit Bull,24785.9855,46.377,10.8039,med,high,short,female,Kane
+Samoyed,17881.9868,52.8505,10.4464,med,high,med,female,Graham
+Samoyed,16666.2634,,10.043,med,high,med,female,Fowler
+Siberian Husky,17603.6586,53.4273,12.1537,med,low,med,male,Torres
+Siberian Husky,21042.3189,62.259,12.2136,med,low,med,female,Colon
+Siberian Husky,20382.2939,55.3164,12.7725,med,med,med,male,Zuniga
+Samoyed,23571.8516,56.0363,11.2206,low,high,med,male,Rogers
+Samoyed,18236.7587,,11.2898,med,high,short,male,Bailey
+Samoyed,22907.4997,50.8172,10.6579,med,high,med,male,Martinez
+Bloodhound,39435.2621,61.3073,8.0642,med,med,short,male,Francis
+Siberian Husky,20225.5419,52.2538,11.5747,high,med,med,male,Wheeler
+Bloodhound,43638.5028,,7.9278,med,high,med,male,Landry
+Bloodhound,33966.1307,,7.5741,high,high,short,female,Brown
+Bloodhound,46715.1409,63.0288,7.7524,low,high,short,male,Villa
+Pit Bull,21231.1062,46.0513,12.1723,high,high,short,female,Ramos
+Samoyed,29796.1147,52.3367,10.8616,med,high,med,female,Hodges
+Pit Bull,19849.7168,,12.5874,low,high,short,male,Williams
+Bloodhound,47428.1769,66.5742,7.8897,med,high,short,male,Rowland
+Pit Bull,27512.4968,46.3446,12.088,med,high,short,female,Padilla
+Siberian Husky,16345.6932,55.2243,11.407,high,med,med,female,White
+Samoyed,23248.0698,53.1814,10.9518,med,med,med,male,Galvan
+Pit Bull,26829.08,46.9092,11.4957,med,high,med,male,Lewis
+Pit Bull,30443.7126,46.168,12.4798,med,high,short,female,Bailey
+Bloodhound,44952.6056,64.0504,8.6159,med,high,short,female,Waters
+Bloodhound,41923.6053,60.7419,6.9536,high,high,short,male,Williams
+Bloodhound,46048.8073,64.3631,8.8607,low,high,short,male,Gonzalez
+Siberian Husky,17624.5884,55.1519,12.363,med,low,med,female,Chan
+Siberian Husky,18601.5181,54.2005,12.2651,med,med,med,female,Gillespie
+Pit Bull,32493.2762,45.1848,12.8603,med,high,short,male,Boyle
+Pit Bull,18844.4702,,11.7845,med,high,short,female,Perez
+Pit Bull,20723.9806,46.0124,11.7603,med,high,short,male,Simpson
+Bloodhound,47682.2513,63.8283,8.4441,low,high,short,male,Bryant
+Samoyed,31142.6427,54.4903,11.3652,med,med,med,male,Williams
+Samoyed,28876.6953,51.4015,11.0437,high,high,med,female,Gilbert
+Siberian Husky,20326.8422,55.0824,11.9731,med,high,med,male,Huynh
+Siberian Husky,20721.6746,52.5315,11.3526,med,med,med,female,Palmer
+Pit Bull,28813.9022,,11.724,med,med,short,male,Vasquez
+Samoyed,19413.2912,50.9198,11.7367,med,high,short,female,Arnold
+Pit Bull,22584.1941,45.3717,11.3804,med,high,short,male,Carr
+Pit Bull,23132.7769,46.0654,11.7205,low,high,med,male,Benton
+Bloodhound,43564.1276,67.6482,8.6402,med,high,short,male,Ramirez
+Siberian Husky,18616.0432,54.1554,11.7757,med,med,long,male,Lee
+Siberian Husky,19866.1614,53.2707,11.9952,med,low,long,male,Hart
+Bloodhound,47585.5268,61.0962,8.0796,med,med,short,male,Gonzalez
+Pit Bull,39411.8124,46.3215,12.0992,med,med,short,female,Bennett
+Siberian Husky,21060.8838,53.092,12.3848,med,med,med,female,Veronica
+Bloodhound,44222.8067,65.9467,8.785,med,high,short,female,Orr
+Samoyed,27723.7858,50.443,10.7479,high,high,med,male,Green
+Pit Bull,23926.4354,45.7352,12.528,med,high,short,male,Smith
+Siberian Husky,20739.9469,52.9856,11.4465,med,med,med,male,Williams
+Siberian Husky,17593.4838,51.2745,11.1554,med,med,med,female,Fernandez
+Bloodhound,38564.6417,63.5021,9.2571,med,high,med,male,Lewis
+Bloodhound,48514.1267,64.1214,9.489,med,high,short,female,George
+Siberian Husky,21135.8717,,11.4729,med,med,med,male,Walker
+Siberian Husky,20479.6406,54.7261,12.0582,low,med,med,female,Cox
+Bloodhound,41431.9347,,8.7707,high,med,short,female,Tapia
+Samoyed,21020.47,51.2784,9.6476,med,high,med,male,Little
+Bloodhound,41996.6903,63.0933,8.6492,med,high,short,male,Boyd
+Bloodhound,37717.5101,63.8818,9.756,med,high,short,male,Griffin
+Pit Bull,31207.7837,,11.9807,med,high,short,female,Madden
+Samoyed,20811.6215,53.1821,10.2306,low,high,long,female,Torres
+Siberian Husky,16005.0288,,12.1471,med,low,med,male,Bradley
+Samoyed,16267.5893,,12.7445,med,high,med,male,Weiss
+Siberian Husky,20009.7425,,12.1566,med,med,med,female,Alvarez
+Bloodhound,41693.6951,64.7768,8.3702,med,high,med,female,Willis
+Siberian Husky,18862.7898,53.9055,11.5918,high,med,med,female,Kirk
+Bloodhound,42324.0578,62.6212,7.1512,med,high,short,male,Martinez
+Pit Bull,36078.6535,46.3463,11.0912,med,high,short,female,Fisher
+Siberian Husky,20067.1608,56.9897,12.2694,low,low,med,female,Martinez
+Pit Bull,21965.9723,45.4062,11.5654,high,high,short,male,Lewis
+Bloodhound,53651.7179,62.0265,6.8957,low,high,short,male,Cochran
+Siberian Husky,17450.3128,,12.6797,med,med,med,male,Boyer
+Pit Bull,27473.8702,,11.8648,med,high,med,female,Martin
+Samoyed,22542.0331,,10.8283,med,high,med,female,Charles
+Pit Bull,28287.5093,46.2063,11.8827,med,high,short,male,Bell
+Bloodhound,43458.9555,63.7697,9.0445,med,high,short,female,Adams
+Samoyed,32278.5551,53.704,11.1304,med,high,med,female,Williams
+Siberian Husky,16874.055,54.2103,11.1806,med,med,short,male,Roberts
+Samoyed,23475.8661,,11.4102,med,high,med,male,Payne
+Pit Bull,27477.4277,46.7007,11.8384,med,high,short,female,Lowe
+Samoyed,28896.6251,55.7769,11.5214,med,high,med,male,Ross
+Pit Bull,33517.6564,45.519,12.1051,med,high,short,male,Wright
+Siberian Husky,23675.147,55.8185,12.2593,med,med,med,female,Holloway
+Siberian Husky,19235.4904,,12.3693,med,med,med,female,Johnson
+Bloodhound,43259.0104,,7.72,high,high,short,female,Lewis
+Bloodhound,47234.5933,62.8689,7.3097,med,high,short,male,Smith
+Bloodhound,46340.0467,62.9121,9.6884,med,med,short,female,Smith
+Pit Bull,19466.2266,46.3459,13.1358,low,med,short,female,Rangel
+Siberian Husky,22919.7855,,12.4963,med,med,med,male,Marquez
+Siberian Husky,20363.9108,54.3605,12.1113,high,med,short,female,Thomas
+Bloodhound,39421.4889,63.1385,7.2534,med,high,short,female,Tran
+Bloodhound,43983.1713,63.3467,8.5842,med,high,short,female,Hooper
+Siberian Husky,18594.7163,53.8585,13.2687,med,low,med,female,Lamb
+Pit Bull,36811.1461,45.8814,11.9858,med,high,short,female,Franco
+Pit Bull,23037.6805,45.4874,10.9767,med,high,short,male,Maldonado
+Bloodhound,45192.5962,63.9021,8.5542,med,high,short,female,Nguyen
+Samoyed,21766.6677,53.6379,10.5482,med,med,med,female,Ferguson
+Samoyed,16687.6423,52.1623,10.5939,med,high,med,female,Brown
+Siberian Husky,16851.7012,54.0225,10.9716,med,med,short,female,Ruiz
+Pit Bull,14245.5023,45.7206,11.6392,med,high,short,female,Romero
+Siberian Husky,20333.1148,54.6188,11.2849,med,med,med,male,Hansen
+Pit Bull,16343.7103,45.545,11.7405,low,high,short,male,Rodriguez
+Siberian Husky,21296.4782,,11.1782,high,med,short,male,Fitzgerald
+Samoyed,25514.6298,53.452,10.7667,low,high,med,male,Luna
+Samoyed,19522.807,56.3104,11.7485,med,high,med,male,Jones
+Samoyed,19931.8624,52.8327,11.0194,high,high,med,female,Webb
+Siberian Husky,20297.2565,48.6616,12.3216,high,med,med,female,Harrison
+Siberian Husky,19037.1351,55.4785,11.3754,med,low,med,female,Henson
+Siberian Husky,14755.131,52.0812,11.1149,med,med,med,male,Williams
+Bloodhound,33283.1449,63.43,9.0127,low,high,short,male,Rodriguez
+Siberian Husky,19140.6449,53.4351,12.1032,high,med,med,female,Byrd
+Siberian Husky,16129.5367,50.7368,11.7966,med,low,short,female,Woods
+Bloodhound,42974.411,63.6419,8.7523,med,high,short,female,Stone
+Bloodhound,42130.9857,,10.3628,med,high,short,female,Nicolas
+Pit Bull,20532.1742,47.0857,12.4692,low,high,short,male,Snyder
+Samoyed,26638.0129,53.1659,10.3615,med,high,short,male,Miranda
+Bloodhound,51731.5083,63.0018,8.4795,med,high,short,male,Palmer
+Samoyed,22601.9695,,10.7449,med,high,med,female,Merritt
+Pit Bull,22198.265,46.692,11.8617,med,high,short,female,Petty
+Pit Bull,24816.3926,,11.8529,med,high,med,male,Bush
+Siberian Husky,17545.1317,55.8532,11.6958,med,med,med,male,Pittman
+Samoyed,13982.8268,,11.3421,med,high,med,female,Chaney
+Samoyed,28541.6085,,11.7669,med,high,med,female,Smith
+Siberian Husky,21108.1342,57.7164,12.1594,med,med,med,male,Harrell
+Siberian Husky,20238.532,53.883,12.3227,med,med,med,male,Hernandez
+Siberian Husky,20463.1022,,11.05,med,med,med,male,Ferguson
+Samoyed,15906.6542,52.3833,10.7662,low,high,med,female,Marshall
+Samoyed,17312.9618,,12.469,low,high,long,male,Holmes
+Pit Bull,33991.8168,45.8894,11.941,low,high,short,female,Powell
+Samoyed,17408.2589,51.5446,10.949,low,high,med,male,Wright
+Siberian Husky,17191.3702,53.7231,12.1864,med,med,med,female,Jones
+Pit Bull,25175.4226,45.3525,12.1892,low,high,short,female,Oconnor
+Pit Bull,27051.5625,46.0648,10.7187,med,high,short,male,Garcia
+Samoyed,21218.8288,,10.7249,med,high,med,male,Long
+Samoyed,23913.4917,54.2314,10.6496,med,high,med,female,Miller
+Bloodhound,45623.4404,65.1604,7.8494,med,high,short,female,Meza
+Bloodhound,46180.0122,61.8117,9.1323,med,high,short,male,King
+Bloodhound,39072.3549,64.0034,8.9085,high,med,short,female,Williams
+Samoyed,20303.4437,55.5255,12.0031,med,high,short,female,Walters
+Samoyed,24807.8575,52.9671,10.1674,med,high,med,male,Newton
+Siberian Husky,17493.6114,55.5966,11.8521,med,med,med,female,Miller
+Siberian Husky,17017.1839,55.3532,11.7591,med,med,med,female,Ortega
+Bloodhound,38508.5623,64.0206,9.0785,med,high,short,female,Fischer
+Pit Bull,27474.0034,46.5611,11.801,high,high,short,female,Martinez
+Pit Bull,31447.1062,45.3065,12.3403,med,high,short,female,Young
+Pit Bull,26344.6598,46.2706,11.62,med,high,short,male,Sanchez
+Pit Bull,24794.306,44.6321,12.427,med,high,short,female,Ortega
+Samoyed,25385.0385,53.0888,9.624,med,high,med,female,Love
+Pit Bull,24797.5495,45.3068,12.3142,med,high,short,female,Hill
+Samoyed,25704.854,,11.1783,med,high,med,male,Lewis
+Pit Bull,18130.7968,46.5763,11.1767,med,high,short,male,Sullivan
+Samoyed,27595.3091,52.5178,10.8276,low,high,med,female,Murray
+Bloodhound,44762.7479,64.737,8.7742,med,high,short,female,Blake
+Siberian Husky,19220.3234,54.1192,11.5627,high,low,med,male,Holmes
+Bloodhound,45868.419,63.3427,8.5495,med,high,short,male,Hobbs
+Siberian Husky,21188.5173,52.1815,12.6443,med,med,med,male,Snyder
+Bloodhound,43745.4573,64.5019,8.7716,high,med,short,female,Collin
+Samoyed,16562.8424,53.287,9.9488,med,high,long,male,Green
+Pit Bull,30426.9884,46.1936,12.3438,med,high,short,female,Holder
+Siberian Husky,20270.3512,54.3952,11.0433,high,med,long,female,Olson
+Siberian Husky,19286.0088,54.6789,12.7541,high,med,med,female,Henderson
+Samoyed,25404.288,,10.9549,med,high,med,female,Patel
+Siberian Husky,21531.4188,51.6252,11.6797,low,med,med,female,Owens
+Bloodhound,34845.0622,63.5836,8.0109,med,high,short,female,Hodges
+Bloodhound,43184.6144,63.0606,8.2744,high,high,med,female,Wagner
+Samoyed,25123.9534,54.0967,11.1649,med,high,med,female,Garcia
+Bloodhound,38126.7786,,9.0456,med,high,short,male,Garcia
+Bloodhound,44814.4484,61.8819,9.5961,med,high,short,male,Rodriguez
+Bloodhound,45377.4606,,7.4143,med,high,med,male,Stanton
+Bloodhound,39010.6895,,7.9167,med,high,short,male,Mendoza
+Bloodhound,44641.9267,62.0189,9.998,low,high,short,female,Smith
+Pit Bull,9584.9731,45.3175,11.047,med,high,med,female,Gilbert
+Samoyed,20354.6774,53.024,10.1742,med,high,short,female,Baker
+Bloodhound,41184.1693,,8.2061,med,high,med,male,Jackson
+Bloodhound,43129.7071,62.5421,8.4267,med,high,short,male,Baldwin
+Pit Bull,25488.5153,45.9192,13.1751,med,high,short,female,Coleman
+Pit Bull,22248.8708,47.1355,12.154,med,high,short,female,Rosales
+Pit Bull,14543.4119,46.4104,12.4135,med,high,short,female,Nelson
+Samoyed,22958.6249,51.9784,11.614,med,high,med,male,Meyer
+Bloodhound,46191.1358,63.2535,8.6786,med,high,med,male,Hicks
+Pit Bull,19296.114,45.6093,12.6403,med,high,short,male,Martin
+Samoyed,22724.6846,54.085,10.3825,high,high,med,male,Mendez
+Siberian Husky,22070.1518,,11.7777,med,med,short,male,Whitaker
+Bloodhound,43219.6073,65.1214,7.7714,med,high,short,female,Richardson
+Pit Bull,23366.1798,45.7207,11.4171,high,high,med,male,Riddle
+Samoyed,18910.1161,52.0457,11.0633,med,high,med,female,Woodard
+Siberian Husky,17288.4379,53.0002,11.8937,low,high,med,female,Jimenez
+Samoyed,26579.6785,53.7178,10.8654,med,high,short,female,Moore
+Bloodhound,43056.7934,65.5629,7.299,low,high,short,male,Bennett
+Bloodhound,50912.6887,62.9615,8.6342,med,high,short,male,Shah
+Samoyed,22501.0085,53.2854,9.36,med,high,med,female,Clements
+Pit Bull,25772.231,45.3615,11.6578,med,high,short,female,Howell
+Siberian Husky,23361.4957,55.111,12.2353,med,med,short,female,Smith
+Bloodhound,37164.1637,62.8671,7.8682,med,med,short,male,Meyer
+Bloodhound,41702.4232,63.8299,8.6086,med,high,short,male,Parker
+Bloodhound,43284.6761,65.6488,8.945,med,high,short,male,Holland
+Bloodhound,46844.1024,62.1579,7.0723,med,high,short,male,Jenkins
+Samoyed,20838.2569,53.2183,10.6699,med,med,med,female,Weber
+Siberian Husky,17991.7408,49.3003,10.6994,med,med,med,female,Steele
+Pit Bull,16514.3702,,12.6091,high,med,short,female,Flores
+Pit Bull,35750.3884,,11.3114,med,high,med,female,Mcneil
+Siberian Husky,17217.1352,,11.4453,med,med,med,male,Daniel
+Siberian Husky,19653.2864,58.0531,12.7922,low,med,med,female,Mason
+Bloodhound,41902.5297,,6.7422,med,high,short,female,Wells
+Bloodhound,46103.9036,63.7582,8.8286,med,high,short,female,Harris
+Siberian Husky,18104.7449,54.4788,11.4523,med,med,long,female,Torres
+Samoyed,26258.5063,51.6591,11.2348,med,high,med,female,Robinson
+Bloodhound,44006.6041,62.7613,8.3682,med,high,short,female,Payne
+Samoyed,26195.3822,54.5982,11.1998,med,high,long,female,Dean
+Pit Bull,23905.0568,45.9292,11.5571,med,high,short,male,Joseph
+Pit Bull,30908.0965,46.0797,11.7974,med,med,short,female,Nguyen
+Samoyed,19230.838,52.3341,11.5387,med,high,med,male,Fowler
+Pit Bull,31422.0281,46.1663,12.8145,med,high,short,female,Stone
+Siberian Husky,23047.5992,53.4712,11.0691,med,med,med,male,Valentine
+Pit Bull,19191.0613,45.6404,11.6832,med,high,short,male,Taylor
+Siberian Husky,19764.4277,54.8411,11.8193,med,med,med,female,Pope
+Samoyed,24014.426,,11.547,med,high,long,female,Huang
+Pit Bull,38334.3248,46.2197,12.1992,low,high,short,female,Brooks
+Samoyed,29313.4894,54.7144,10.7452,med,high,short,female,Cook
+Pit Bull,15291.1503,45.9714,12.4444,high,high,short,female,Zamora
+Samoyed,24000.9412,54.1183,11.4891,med,high,med,male,Meadows
+Samoyed,21155.0847,52.5293,11.5563,med,high,short,male,Wang
+Pit Bull,30027.4971,46.0278,11.5188,med,high,short,female,Costa
+Siberian Husky,18647.2593,,11.802,med,med,short,female,Lloyd
+Pit Bull,32490.4537,47.1564,11.5894,med,high,short,female,Cohen
+Bloodhound,40688.8495,64.1448,7.5779,med,high,short,female,Mclean
+Pit Bull,23859.0518,45.5834,12.2504,high,high,short,female,Bates
+Bloodhound,46662.6287,64.8868,8.8778,low,high,short,male,Lamb
+Samoyed,24374.9265,55.7746,10.2286,med,high,med,male,Smith
+Pit Bull,22022.1414,46.0816,10.718,med,high,short,female,Gutierrez
+Bloodhound,39721.3638,64.7899,10.1008,med,high,short,female,Baker
+Pit Bull,29840.5597,44.9267,11.9442,med,high,short,female,Parker
+Bloodhound,41203.4193,63.6844,7.6993,med,high,short,male,Sexton
+Samoyed,26590.3583,53.4491,10.9331,med,high,med,male,Brown
+Siberian Husky,17651.8108,52.7196,12.2806,high,high,med,male,Vasquez
+Siberian Husky,21509.67,51.1791,11.7978,med,med,med,male,Graham
+Bloodhound,41608.4338,61.9574,7.9708,med,high,short,male,Keller
+Pit Bull,18069.8166,46.4139,11.7915,med,high,short,female,May
+Bloodhound,48003.0944,61.4642,7.2718,med,high,short,male,Griffin
+Samoyed,28382.0385,,10.9058,med,high,med,female,Baker
+Siberian Husky,18913.8776,54.0936,12.4165,med,med,med,female,Shaffer
+Pit Bull,32037.8862,45.3893,11.6027,med,high,short,female,Hawkins
+Samoyed,25721.5293,53.6474,11.0742,med,high,med,female,Ward
+Siberian Husky,20250.2345,53.2039,12.8835,med,low,med,female,Williams
+Pit Bull,33559.7327,45.6236,12.5108,high,high,short,male,Miles
+Samoyed,17231.6869,51.0174,10.2437,high,med,med,female,Golden
+Bloodhound,41579.007,64.5649,7.3933,med,high,short,female,Clark
+Pit Bull,32411.5136,,11.8223,med,high,short,female,Williams
+Pit Bull,20012.5799,45.5018,11.4801,med,high,short,male,Smith
+Bloodhound,45848.2596,62.8984,8.0329,med,high,short,female,Munoz
+Pit Bull,19342.0107,44.8102,12.0867,med,high,short,male,Quinn
+Pit Bull,34254.2879,45.6846,12.7822,med,high,short,female,Green
+Samoyed,17974.337,53.3426,9.7642,med,high,med,female,Green
+Siberian Husky,17086.7866,53.4697,12.4051,med,med,long,female,Miller
+Pit Bull,35779.0386,,12.191,low,high,short,female,Wade
+Siberian Husky,17771.0795,55.4259,11.7445,med,med,short,male,Jessica
+Bloodhound,47934.9327,,8.5643,med,med,short,male,Bates
+Siberian Husky,20433.4132,,11.2764,med,med,med,male,Welch
+Pit Bull,23689.802,,12.114,med,high,short,female,Ramsey
+Pit Bull,26655.3464,,12.0295,med,high,short,male,Spencer
+Samoyed,19092.7919,,9.8081,med,high,med,male,Roberts
+Pit Bull,40993.6518,46.0791,12.7734,med,high,short,male,Singh
+Bloodhound,46542.2996,64.2445,7.4685,high,high,short,male,Miranda
+Samoyed,25760.0389,,10.9438,med,med,med,male,Robinson
+Samoyed,28749.8106,52.5271,11.7474,med,high,med,male,Dixon
+Bloodhound,43714.1237,62.7607,9.2141,high,high,short,female,Garcia
+Siberian Husky,18994.583,54.857,10.8098,med,med,med,female,Lowe
+Bloodhound,36891.8685,64.7503,7.8663,low,high,short,female,Kim
+Bloodhound,47923.6613,63.1719,9.2754,med,high,short,male,Park
+Bloodhound,42959.7336,63.556,9.9226,med,med,short,male,Cannon
+Pit Bull,30307.3259,,12.3754,med,high,short,male,Serrano
+Siberian Husky,19129.2379,49.396,11.8648,high,med,short,male,Myers
+Siberian Husky,18147.1706,50.5284,12.1104,med,low,med,male,Morris
+Samoyed,18722.0163,,10.5562,low,high,med,female,Stewart
+Pit Bull,24591.5948,45.9346,11.5687,med,high,short,male,Howell
+Bloodhound,48162.289,63.058,7.721,low,high,short,male,Smith
+Bloodhound,39501.5379,63.3713,8.9377,high,high,short,male,Rodriguez
+Siberian Husky,16841.5878,56.5544,12.5874,med,med,med,male,Tapia
+Pit Bull,21827.2217,46.953,12.0583,med,high,short,male,Sanchez
+Siberian Husky,20396.4719,57.7044,11.698,med,med,short,male,Burke
+Samoyed,20939.3057,,11.4604,low,high,med,male,Mendoza
+Pit Bull,25911.2719,46.233,11.7773,med,high,short,female,Newman
+Samoyed,18691.2125,55.6124,11.1862,med,high,med,female,Cook
+Bloodhound,43736.3034,63.9085,9.2322,low,high,short,female,Harris
+Pit Bull,30056.5269,,11.6398,med,high,short,female,Marquez
+Bloodhound,37608.1329,63.9371,9.6077,low,med,short,male,Lewis
+Pit Bull,19205.4333,45.9249,11.9046,med,high,short,female,Bailey
+Samoyed,24668.4354,49.2119,11.0956,high,high,med,female,Miller
+Pit Bull,24528.1606,,12.5337,med,high,short,male,Callahan
+Samoyed,18222.441,52.7273,11.9808,med,high,long,female,Vaughan
+Samoyed,16890.3163,54.2949,9.6682,med,high,med,female,Franklin
+Pit Bull,23521.4688,46.2586,10.9736,high,high,short,female,Scott
+Bloodhound,43167.4239,62.9401,7.969,med,high,short,male,Sanders
+Pit Bull,18496.0879,46.0396,11.4528,med,high,short,male,Porter
+Bloodhound,39790.3723,63.409,8.5006,low,high,short,male,Simmons
+Bloodhound,39434.1196,60.4249,8.9636,med,high,med,male,Jensen
+Pit Bull,17721.0596,48.4363,10.8057,med,high,short,female,Vega
+Samoyed,20268.6735,53.8545,10.944,med,high,med,female,Karen
+Pit Bull,24534.4101,45.8967,11.9764,low,high,short,female,Morris
+Siberian Husky,20311.9758,60.4524,10.7888,med,med,med,male,Peterson
+Samoyed,19822.5333,54.1267,10.9597,med,high,med,female,Smith
+Siberian Husky,18714.4482,52.9846,12.4568,low,med,med,male,Mcconnell
+Samoyed,23338.6546,54.2586,11.7977,med,high,med,female,Walker
+Pit Bull,31119.0132,46.2867,11.3179,med,high,short,male,Navarro
+Siberian Husky,14766.0141,47.0958,11.9085,med,med,med,female,Edwards
+Samoyed,22449.418,53.4374,11.4659,med,high,med,male,Moore
+Samoyed,22557.989,52.7386,10.3409,low,high,med,female,Edwards
+Bloodhound,40028.9688,65.1135,7.8975,med,high,short,male,Garcia
+Samoyed,24756.6061,54.2269,11.0692,med,high,short,female,Griffin
+Bloodhound,47205.5015,63.4283,8.6482,med,high,short,female,Sutton
+Siberian Husky,19773.4743,54.6806,11.2936,med,med,long,female,Weber
+Samoyed,16626.3248,53.8072,10.808,med,high,med,male,Neal
+Bloodhound,38898.7969,65.0179,6.7589,med,high,short,male,Sanford
+Bloodhound,39707.408,63.1415,7.522,med,high,short,female,Jennings
+Bloodhound,48718.7235,65.2474,7.5063,med,high,short,female,Brock
+Siberian Husky,22175.6985,,11.9845,med,med,med,female,Werner
+Bloodhound,41210.4081,63.8018,9.8263,med,high,short,male,Phillips
+Pit Bull,26750.4556,46.5107,11.828,med,high,short,male,Espinoza
+Pit Bull,29452.1728,46.0289,12.1121,med,high,short,female,Berry
+Bloodhound,38812.1008,64.494,9.8369,med,high,short,female,Watts
+Siberian Husky,19921.891,55.3855,12.1652,med,med,med,female,Buckley
+Bloodhound,44476.5123,62.3074,7.8938,med,high,short,male,Clark
+Samoyed,21832.6948,55.1669,10.8552,med,med,med,male,Cisneros
+Bloodhound,42529.5656,65.1957,7.338,med,high,med,male,Obrien
+Siberian Husky,18708.9601,54.9223,11.437,high,med,med,male,White
+Pit Bull,29246.5936,45.107,12.0832,med,high,short,female,Price
+Samoyed,20790.7019,52.9875,11.1019,med,high,med,female,Johnson
+Bloodhound,38731.0665,61.1632,11.1973,med,high,short,male,Cowan
+Bloodhound,42591.7306,64.0321,9.7172,med,high,short,female,Jenkins
+Pit Bull,22674.3905,,12.0929,med,high,short,female,Carpenter
+Samoyed,12921.1493,,11.1776,med,high,med,female,Gutierrez
+Pit Bull,33553.5132,45.587,12.184,med,high,short,female,Clark
+Samoyed,20300.0691,54.8706,11.3628,med,high,med,female,Horton
+Pit Bull,25975.6692,46.118,11.6738,med,high,short,female,Rivera
+Pit Bull,17597.7269,46.5492,12.9455,high,high,short,female,Riddle
+Bloodhound,46009.868,61.8416,10.0557,med,high,short,male,Murphy
+Bloodhound,46818.7225,62.3434,8.7476,med,high,short,male,Miller
+Bloodhound,40021.9391,62.1496,8.6939,med,med,short,male,Thompson
+Bloodhound,42412.349,61.555,8.5675,high,high,short,female,Romero
+Samoyed,18374.363,53.1668,11.1363,med,high,med,male,Davis
+Bloodhound,47089.4341,,8.6698,med,high,short,female,Matthews
+Samoyed,21718.0314,54.1616,11.9717,med,high,med,female,Perez
+Siberian Husky,18431.969,55.4157,12.8491,med,med,med,female,Bailey
+Samoyed,20103.319,54.6389,10.9419,med,high,med,male,Rodriguez
+Siberian Husky,19677.8163,53.8958,12.6104,med,low,short,male,Mccoy
+Siberian Husky,18398.0355,,12.5048,med,med,med,female,Marshall
+Pit Bull,12438.3374,44.9628,11.7237,high,med,short,male,Parks
+Siberian Husky,15588.2958,53.794,12.307,low,med,med,male,Dodson
+Siberian Husky,19877.9178,47.7371,12.537,med,med,med,female,Mullins
+Pit Bull,22438.3759,46.3365,12.1906,med,high,short,male,Nelson
+Bloodhound,45535.5704,62.8025,8.5032,med,high,short,male,Le
+Bloodhound,47387.4787,63.5953,8.5013,med,high,short,female,Robinson
+Samoyed,31647.9082,52.0288,11.3026,low,high,med,female,Alvarado
+Pit Bull,19119.604,46.1621,12.7328,med,high,short,male,Hill
+Samoyed,8209.1221,53.3856,11.523,low,high,long,female,Williams
+Siberian Husky,21710.8002,54.5466,13.5101,med,med,med,female,Richardson
+Pit Bull,29200.1107,45.2564,12.2929,med,high,short,female,Richard
+Samoyed,28180.6901,,10.538,med,high,med,female,Miller
+Samoyed,15161.5462,54.5042,10.5426,med,high,med,female,Watts
+Pit Bull,25978.7124,,12.2839,med,high,short,male,Miller
+Pit Bull,25453.5507,45.813,12.9902,med,high,short,female,Bowers
+Samoyed,22564.503,,11.1995,med,high,med,female,Cameron
+Pit Bull,28836.3116,45.9649,11.6797,med,high,short,male,Brown
+Samoyed,26862.5537,53.3403,10.4935,med,high,med,male,Moore
+Pit Bull,16278.7614,45.7833,13.0076,high,high,short,male,Butler
+Pit Bull,28921.1507,46.1585,12.1726,med,high,short,female,Norris
+Siberian Husky,18458.6635,54.9561,11.7962,med,med,med,female,Stokes
+Bloodhound,47725.1658,65.939,7.5193,med,high,short,female,Jones
+Samoyed,23494.2405,52.0268,11.9417,med,high,med,male,Kramer
+Samoyed,29505.477,56.3886,11.305,med,high,med,male,Jennings
+Samoyed,28175.6156,52.9427,10.9271,low,high,med,female,Hodge
+Samoyed,19260.5867,53.3479,11.0051,med,high,med,male,Morrison
+Samoyed,24634.0574,53.469,11.4615,med,med,med,female,Salas
+Pit Bull,12356.7819,45.1339,12.2369,med,high,short,male,Harris
+Pit Bull,24567.5267,45.1488,11.5208,med,high,short,female,Chan
+Pit Bull,27252.3774,46.6601,12.0352,low,med,short,male,Patterson
+Siberian Husky,21542.6838,55.7217,13.0865,med,low,med,female,Griffin
+Siberian Husky,18498.135,56.4304,11.8651,med,low,long,female,Pruitt
+Pit Bull,23611.7199,,10.9704,med,high,short,female,Salinas
+Bloodhound,46463.5228,64.5628,8.9646,med,high,med,male,Blackwell
+Samoyed,25779.5392,55.8621,11.309,med,high,med,female,Holder
+Samoyed,20040.0434,52.7925,11.0885,med,high,med,female,Johnson
+Pit Bull,27308.9804,45.874,11.7531,high,high,short,male,Medina
+Samoyed,23069.897,52.8853,10.0856,med,high,med,female,Cole
+Bloodhound,42758.2492,63.2053,8.7862,high,high,med,male,Lindsey
+Pit Bull,32356.5472,46.3163,11.1651,low,high,short,female,Thomas
+Pit Bull,42063.2324,46.8124,11.7835,med,high,short,male,Clark
+Siberian Husky,20178.5878,58.5175,11.285,med,low,short,male,Gonzalez
+Bloodhound,43502.0388,63.7331,8.8178,med,med,short,female,Martinez
+Bloodhound,45399.1999,62.9366,8.5454,med,high,short,male,Flores
+Samoyed,18849.8104,52.531,10.6756,high,high,med,female,Perry
+Samoyed,16936.6651,53.3591,10.9915,high,high,med,male,Davis
+Pit Bull,20208.3222,44.3765,12.2051,med,high,short,female,Stewart
+Bloodhound,46871.9694,,7.1994,low,high,med,female,Tucker
+Samoyed,24424.6572,54.9709,11.7803,med,high,med,female,Ewing
+Samoyed,22387.8677,50.5561,10.9346,med,high,med,female,Lawrence
+Bloodhound,38680.2829,63.622,9.7189,high,med,short,female,May
+Pit Bull,20653.7187,,11.6008,low,high,short,female,Russell
+Siberian Husky,20455.907,54.2094,11.7608,med,low,med,female,Nguyen
+Bloodhound,43815.244,63.3676,8.6245,med,high,med,male,White
+Bloodhound,40650.923,62.2864,8.3409,med,high,short,male,Johnson
+Bloodhound,40833.6379,62.0718,8.7024,med,high,short,male,Davies
+Samoyed,21448.9962,55.8603,10.7249,med,high,med,male,Bailey
+Siberian Husky,20236.2235,,11.963,med,low,med,male,Jones
