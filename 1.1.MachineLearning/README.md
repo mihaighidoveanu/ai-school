@@ -2,7 +2,7 @@
 
 ## [Courses]()
 
-## [Regression and Classification]()
+## [Regression and Classification](https://github.com/mihaighidoveanu/ai-school/tree/master/1.1.MachineLearning/Chapter1)
 Classifying dog breeds and predicting their age.
 
 ### Learn 
@@ -11,7 +11,7 @@ Classifying dog breeds and predicting their age.
 - Cross-Validation
 - Model Evaluation
 
-## [SVM and Clustering]()
+## [SVM and Clustering](https://github.com/mihaighidoveanu/ai-school/tree/master/1.1.MachineLearning/Chapter2)
 Classify author 
 
 ### Learn
@@ -22,7 +22,7 @@ Classify author
 - Dimensionality Reduction (PCA)
 - Process text (Bag of Words, TF-IDF )
 
-## [Convolutional and Recurrent Neural Networks]()
+## [Convolutional and Recurrent Neural Networks](https://github.com/mihaighidoveanu/ai-school/tree/master/1.1.MachineLearning/Chapter3)
 Recognize images with three-digit numbers and learn to add them
 
 ### Learn

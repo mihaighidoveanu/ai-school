@@ -5,10 +5,10 @@ Work is done according to the Master's degree of AI at University of Bucharest.
 
 Projects are ordered based on semesters, increasing difficulty in the above mentioned degree program. Titles marked with *\** considered optional for the purpose of AI learning.
 
-1. [Machine Learning]()
-2. [Natural Language Processing]()
-3. [Bayesian Inference]()
-4. [Distributed Programming\*]()
+1. [Machine Learning](https://github.com/mihaighidoveanu/ai-school/tree/master/1.1.MachineLearning)
+2. [Natural Language Processing](https://github.com/mihaighidoveanu/ai-school/tree/master/1.2.NaturalLanguageProcessing)
+3. [Bayesian Inference](https://github.com/mihaighidoveanu/ai-school/tree/master/1.3.BayesianInference)
+4. [Distributed Programming\*](https://github.com/mihaighidoveanu/ai-school/tree/master/1._.DistributedProgramming)
 
 ## Purpose
 

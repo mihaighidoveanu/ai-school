@@ -9,7 +9,7 @@ Concepts you can find here :
 + gather / scatter / barrier routines
 + dynamic task assignment and load balancing
 
-## [Parralel Hill Climbing]()
+## [Parralel Hill Climbing](https://github.com/mihaighidoveanu/parralel-hill-climbing)
 
 Implementation of the hill climbing optimisation tehnique in a distributed environment. 
 
